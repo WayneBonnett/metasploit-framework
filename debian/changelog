@@ -1,3 +1,9 @@
+metasploit-framework (6.4.111-0parrot1) echo; urgency=medium
+
+  * New upstream version 6.4.111
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 04 Feb 2026 13:11:24 +0100
+
 metasploit-framework (6.4.107-0parrot1) echo; urgency=medium
 
   * disable gbp pristine-tar
